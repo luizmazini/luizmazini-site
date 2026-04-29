@@ -31,26 +31,12 @@ interface Essay {
 
 const ensaios: Essay[] = [
   {
-    title: 'Sumi 18 meses pra criar um produto com IA que nao vendeu nada',
+    title: 'Sumi 18 meses pra criar um SaaS com IA que não vendeu nada',
     date: 'abr 2026',
     description:
-      'A cicatriz GoBilly: 80 contas, 0 uso, R$ 10 mil em ads. E como isso virou a tese que eu carrego hoje.',
-    url: 'https://mazini.substack.com',
-  },
-  {
-    title: 'Por que prompt bom nao basta — e o que e Cerebro de Marketing',
-    date: 'abr 2026',
-    description:
-      'Garbage in, garbage out. Sem ICP, voz, oferta, acervo e provas no contexto, IA so entrega lixo bem escrito.',
-    url: 'https://mazini.substack.com',
-  },
-  {
-    title: 'O dia em que parei de tocar agencia pra virar dono de negocio',
-    date: 'mar 2026',
-    description:
-      'A diferenca entre operar pra cliente e operar pra mim mesmo. E o que mudou no meu PnL no primeiro ano.',
-    url: 'https://mazini.substack.com',
-  },
+      'E ainda gastei dezenas de milhares de reais em ads pra descobrir que o problema não estava no produto.',
+    url: 'https://mazini.substack.com/p/sumi-18-meses-pra-criar-um-produto',
+  }
 ]
 
 // ----------------- BUSINESSES -----------------
@@ -64,7 +50,7 @@ const negocios: Biz[] = [
   {
     name: 'Clube da Pedagoga',
     description:
-      'Negocio digital de nicho com minha esposa, Bia. Eu opero marketing, vendas e funil - ela e o produto e o conteudo.',
+      'Negócio com minha esposa, Bia. Eu opero marketing, vendas e funil - ela e o produto e o conteudo.',
     url: 'https://clubedapedagoga.com.br',
   },
   {

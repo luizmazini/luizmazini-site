@@ -9,10 +9,9 @@
     <span class="t-label">agora</span>
 
     <p class="now-body">
-      Construindo o <strong>Cerebro de Marketing</strong> em publico no Substack.
-      Refazendo o funil de IA do Clube da Pedagoga com a Bia.
-      Reaquecendo a lista legada de 100 mil donos de agencia via 1 e-mail por dia
-      escrito com IA.
+      Construindo o <strong>Cerebro de Marketing</strong> em publico.
+      Refazendo o funil do Clube da Pedagoga com IA.
+      Construindo minha nova marca pessoal com novo posicionamento.
     </p>
 
     <span class="t-meta now-meta">atualizado em abril de 2026</span>
