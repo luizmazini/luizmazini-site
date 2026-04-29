@@ -1,7 +1,4 @@
 <script setup lang="ts">
-// Toggle 3-estados: system / light / dark.
-// Visual: 3 letrinhas mono "S L D" — ativa em amarelo.
-// Salva via @nuxtjs/color-mode (preference) com storageKey 'theme'.
 const colorMode = useColorMode()
 
 const setMode = (m: 'system' | 'light' | 'dark') => {
@@ -15,6 +12,7 @@ const isActive = (m: 'system' | 'light' | 'dark') =>
 <template>
   <ClientOnly>
     <div class="theme-toggle" role="group" aria-label="Alternar tema">
+      <!-- System: monitor -->
       <button
         type="button"
         class="tt-btn"
@@ -22,7 +20,14 @@ const isActive = (m: 'system' | 'light' | 'dark') =>
         aria-label="Tema do sistema"
         title="Sistema"
         @click="setMode('system')"
-      >S</button>
+      >
+        <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <rect x="2" y="3" width="20" height="14" rx="2" />
+          <path d="M8 21h8M12 17v4" />
+        </svg>
+      </button>
+
+      <!-- Light: sol -->
       <button
         type="button"
         class="tt-btn"
@@ -30,7 +35,14 @@ const isActive = (m: 'system' | 'light' | 'dark') =>
         aria-label="Tema claro"
         title="Claro"
         @click="setMode('light')"
-      >L</button>
+      >
+        <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+          <circle cx="12" cy="12" r="4" />
+          <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41" />
+        </svg>
+      </button>
+
+      <!-- Dark: lua -->
       <button
         type="button"
         class="tt-btn"
@@ -38,7 +50,11 @@ const isActive = (m: 'system' | 'light' | 'dark') =>
         aria-label="Tema escuro"
         title="Escuro"
         @click="setMode('dark')"
-      >D</button>
+      >
+        <svg viewBox="0 0 24 24" width="13" height="13" fill="currentColor" aria-hidden="true">
+          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
+        </svg>
+      </button>
     </div>
   </ClientOnly>
 </template>
@@ -49,27 +65,26 @@ const isActive = (m: 'system' | 'light' | 'dark') =>
   bottom: 24px;
   right: 24px;
   display: flex;
-  gap: 4px;
-  padding: 6px 8px;
+  gap: 2px;
+  padding: 5px 6px;
   border: 0.5px solid var(--border);
   background: var(--bg);
   border-radius: 999px;
   z-index: 60;
-  font-family: var(--font-mono);
 }
 
 .tt-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background: transparent;
   border: 0;
-  padding: 2px 6px;
-  font-family: var(--font-mono);
-  font-size: 11px;
-  font-weight: 500;
+  width: 26px;
+  height: 26px;
   color: var(--text-tertiary);
   cursor: pointer;
-  border-radius: 2px;
+  border-radius: 50%;
   transition: color 0.15s ease;
-  letter-spacing: 0.04em;
 }
 
 .tt-btn:hover {
