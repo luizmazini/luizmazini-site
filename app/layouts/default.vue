@@ -22,5 +22,8 @@
 
 .layout-main {
   flex: 1;
+  max-width: 816px;
+  margin: 0 auto;
+  width: 100%;
 }
 </style>

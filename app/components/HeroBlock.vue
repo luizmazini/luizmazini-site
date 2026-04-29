@@ -8,17 +8,6 @@ defineProps<{
 
 <template>
   <section class="hero">
-    <div class="hero-text">
-      <h1 class="hero-tese">
-        IA boa nao vem de prompt bom. Vem de <AccentMark>contexto</AccentMark> bom.
-      </h1>
-
-      <p class="hero-apoio">
-        Documento e compartilho o que tenho feito pra crescer meus 3 negocios digitais
-        com IA. No centro tem um metodo que eu chamo de Cerebro de Marketing.
-      </p>
-    </div>
-
     <div class="hero-photo">
       <NuxtImg
         v-if="photo"
@@ -33,13 +22,23 @@ defineProps<{
       />
       <span v-else class="hero-photo-fallback" aria-hidden="true">M</span>
     </div>
+
+    <div class="hero-text">
+      <h1 class="hero-tese">
+        IA boa nao vem de prompt bom. Vem de <AccentMark>contexto</AccentMark> bom.
+      </h1>
+
+      <p class="hero-apoio">
+        Documento e compartilho o que tenho feito pra crescer meus 3 negocios digitais
+        com IA. No centro tem um metodo que eu chamo de Cerebro de Marketing.
+      </p>
+    </div>
   </section>
 </template>
 
 <style scoped>
 .hero {
   padding: var(--hero-padding-top) var(--nav-padding-x) 56px;
-  max-width: 720px;
   display: flex;
   align-items: flex-start;
   gap: 32px;

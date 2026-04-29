@@ -22,7 +22,6 @@
 <style scoped>
 .now {
   padding: 56px var(--nav-padding-x);
-  max-width: 720px;
   display: flex;
   flex-direction: column;
   gap: 16px;

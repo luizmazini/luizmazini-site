@@ -11,6 +11,7 @@ const socials = [
 
 <template>
   <footer id="contato" class="footer">
+    <div class="footer-inner">
     <div class="footer-left">
       <a href="mailto:e.luizmazini@gmail.com" class="footer-email">
         e.luizmazini@gmail.com
@@ -30,15 +31,22 @@ const socials = [
         </a>
       </li>
     </ul>
+    </div>
   </footer>
 </template>
 
 <style scoped>
 .footer {
+  /* full-width bar */
+}
+
+.footer-inner {
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
   gap: 24px;
+  max-width: 816px;
+  margin: 0 auto;
   padding: 32px var(--nav-padding-x) 48px;
   flex-wrap: wrap;
 }

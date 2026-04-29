@@ -2,9 +2,9 @@
 // Home — single page vertical: hero + agora + ensaios + negocios + newsletter.
 
 useSeoMeta({
-  title: 'Luiz Mazini — Documentando o que faco pra crescer negocios digitais com IA',
+  title: 'Luiz Mazini — Documentando o que faco pra crescer negocios digitais usando IA',
   description:
-    'Documento e compartilho o que tenho feito pra crescer meus 3 negocios digitais com IA. No centro, um metodo que chamo de Cerebro de Marketing.',
+    'Documento e compartilho o que tenho feito pra crescer meus negocios no digital usando IA. No centro, um metodo que chamo de Cerebro de Marketing.',
   ogTitle: 'Luiz Mazini',
   ogDescription:
     'Cerebro de Marketing — a infraestrutura que faz IA virar marketing especifico em vez de lixo generico.',
@@ -64,7 +64,7 @@ const negocios: Biz[] = [
   {
     name: 'Clube da Pedagoga',
     description:
-      'Negocio digital de nicho com a Bia. Eu opero marketing, vendas e funil de IA — ela e o produto e o conteudo.',
+      'Negocio digital de nicho com minha esposa, Bia. Eu opero marketing, vendas e funil - ela e o produto e o conteudo.',
     url: 'https://clubedapedagoga.com.br',
   },
   {
@@ -158,7 +158,6 @@ const negocios: Biz[] = [
 .bizs,
 .newsletter {
   padding: 56px var(--nav-padding-x);
-  max-width: 720px;
   display: flex;
   flex-direction: column;
   gap: 16px;
