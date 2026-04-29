@@ -18,6 +18,9 @@ export default defineNuxtConfig({
     plugins: [tailwindcss()],
   },
 
+  // -------------- OG Image: desabilitado — usamos PNG estático em /public/og-default.png --------------
+  ogImage: false,
+
   // -------------- SEO --------------
   site: {
     url: 'https://luizmazini.com',
