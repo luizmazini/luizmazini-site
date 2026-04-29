@@ -1,0 +1,40 @@
+name: Deploy to Cloudflare Pages
+
+# Backup pipeline. O caminho preferido e conectar Cloudflare Pages
+# diretamente ao repo via UI (auto-detect Nuxt). Esta action serve como
+# fallback / preview deploy quando o webhook de Cloudflare falhar ou pra
+# rodar checks em PRs.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+  deployments: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - run: bun install --frozen-lockfile
+
+      - name: Generate static site
+        run: bun run generate
+        env:
+          NUXT_PUBLIC_CF_ANALYTICS_TOKEN: ${{ secrets.CF_ANALYTICS_TOKEN }}
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist
+          retention-days: 7

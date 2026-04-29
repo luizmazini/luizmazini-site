@@ -1,0 +1,58 @@
+<script setup lang="ts">
+// Secao "agora" — o que tenho feito agora, em 1 paragrafo curto.
+// Conteudo canonico vem do prompt; bolds estruturais (Cerebro de Marketing)
+// ficam em <strong> peso 500, NAO amarelos (regra de escassez).
+</script>
+
+<template>
+  <section id="agora" class="now">
+    <span class="t-label">agora</span>
+
+    <p class="now-body">
+      Construindo o <strong>Cerebro de Marketing</strong> em publico no Substack.
+      Refazendo o funil de IA do Clube da Pedagoga com a Bia.
+      Reaquecendo a lista legada de 100 mil donos de agencia via 1 e-mail por dia
+      escrito com IA.
+    </p>
+
+    <span class="t-meta now-meta">atualizado em abril de 2026</span>
+  </section>
+</template>
+
+<style scoped>
+.now {
+  padding: 56px var(--nav-padding-x);
+  max-width: 720px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.now-body {
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.6;
+  font-weight: 400;
+  color: var(--text-primary);
+  max-width: 600px;
+  margin: 0;
+}
+
+.now-body strong {
+  font-weight: 500;
+  /* Bold estrutural NAO usa amarelo — apenas peso 500 */
+}
+
+.now-meta {
+  margin-top: 8px;
+}
+
+@media (max-width: 600px) {
+  .now {
+    padding: 40px 24px;
+  }
+  .now-body {
+    font-size: 15px;
+  }
+}
+</style>

@@ -1,0 +1,6 @@
+name = "luizmazini-site"
+compatibility_date = "2026-04-29"
+pages_build_output_dir = "dist"
+
+[env.production]
+route = { pattern = "luizmazini.com/*", zone_name = "luizmazini.com" }

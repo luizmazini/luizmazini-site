@@ -1,0 +1,17 @@
+node_modules
+.nuxt
+.output
+.env
+.env.local
+.env.*.local
+dist
+.DS_Store
+*.log
+.vscode
+.idea
+.wrangler
+
+# Brain reference — copia local dos docs canonicos do vault Mazini
+# Brain canonico mora em /Users/mazini/.../Marca Mazini/marketing/brain/
+# Sync via `bun run sync-brain`
+.brain-ref/

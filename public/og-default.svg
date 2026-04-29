@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0F0F0F"/>
+
+  <!-- ponto amarelo decorativo, canto superior esquerdo -->
+  <circle cx="80" cy="80" r="6" fill="#FFD200"/>
+  <line x1="92" y1="80" x2="240" y2="80" stroke="#232323" stroke-width="1"/>
+
+  <!-- frase tese -->
+  <text x="80" y="280" font-family="Inter, system-ui, sans-serif" font-size="72" font-weight="600" fill="#EDEDED" letter-spacing="-2">
+    Luiz Mazini
+  </text>
+
+  <!-- subtitulo -->
+  <text x="80" y="350" font-family="Inter, system-ui, sans-serif" font-size="32" font-weight="400" fill="#8A8A8A">
+    Documento o que faco pra crescer
+  </text>
+  <text x="80" y="395" font-family="Inter, system-ui, sans-serif" font-size="32" font-weight="400" fill="#8A8A8A">
+    negocios digitais com IA.
+  </text>
+
+  <!-- meta -->
+  <text x="80" y="540" font-family="JetBrains Mono, ui-monospace, monospace" font-size="20" font-weight="400" fill="#6B6B6B">
+    luizmazini.com
+  </text>
+
+  <!-- destaque amarelo: palavra "Cerebro de Marketing" -->
+  <text x="80" y="470" font-family="Inter, system-ui, sans-serif" font-size="22" font-weight="500" fill="#FFD200" letter-spacing="2">
+    CEREBRO DE MARKETING
+  </text>
+</svg>
