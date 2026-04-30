@@ -1,7 +1,22 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-BRAIN="/Users/mazini/Library/Mobile Documents/iCloud~md~obsidian/Documents/Mazini SB/1. Projetos/Marca Mazini/marketing/brain"
+# Caminho para o vault Obsidian com os docs de referencia.
+# Configure via variavel de ambiente ou edite este arquivo localmente
+# (nao commitar o path — e especifico de cada maquina).
+#
+# Exemplo:
+#   export BRAIN_PATH="/Users/seunome/path/ate/o/brain"
+#   bun run sync-brain
+
+BRAIN="${BRAIN_PATH:-}"
+
+if [ -z "$BRAIN" ]; then
+  echo "ERRO: variavel BRAIN_PATH nao definida."
+  echo "Exporte o caminho do vault antes de rodar:"
+  echo "  export BRAIN_PATH=\"/caminho/ate/o/brain\""
+  exit 1
+fi
 
 if [ ! -d "$BRAIN" ]; then
   echo "ERRO: vault nao encontrado em $BRAIN"

@@ -11,7 +11,8 @@ dist
 .idea
 .wrangler
 
-# Brain reference — copia local dos docs canonicos do vault Mazini
-# Brain canonico mora em /Users/mazini/.../Marca Mazini/marketing/brain/
-# Sync via `bun run sync-brain`
+# Brain reference — copia local dos docs canonicos do vault (gitignored)
 .brain-ref/
+
+# Claude Code local settings
+.claude/
