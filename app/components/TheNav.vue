@@ -4,7 +4,7 @@ const isHome = computed(() => route.path === '/')
 const menuOpen = ref(false)
 
 const links = [
-  { label: 'ensaios', anchor: '#ensaios' },
+  { label: 'publicações', anchor: '#publicacoes' },
   { label: 'agora', anchor: '#agora' },
   { label: 'contato', anchor: '#contato' },
 ]

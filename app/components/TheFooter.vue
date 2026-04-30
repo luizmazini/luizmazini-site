@@ -32,8 +32,8 @@ const socials = [
   <footer id="contato" class="footer">
     <div class="footer-inner">
       <div class="footer-left">
-        <a href="mailto:e.luizmazini@gmail.com" class="footer-email">
-          e.luizmazini@gmail.com
+        <a href="mailto:falecom@luizmazini.com.br" class="footer-email">
+          falecom@luizmazini.com.br
         </a>
         <span class="footer-meta">Campinas, SP &middot; Brasil</span>
       </div>

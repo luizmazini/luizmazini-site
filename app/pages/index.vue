@@ -7,7 +7,7 @@ useSeoMeta({
     'Documento e compartilho o que tenho feito pra crescer meus negocios no digital usando IA. No centro, um metodo que chamo de Cerebro de Marketing.',
   ogTitle: 'Luiz Mazini',
   ogDescription:
-    'Cerebro de Marketing — a infraestrutura que faz IA virar marketing especifico em vez de lixo generico.',
+    'Documento e compartilho o que tenho feito pra crescer meus negocios no digital com IA plugada à um Cerebro de Marketing.',
   ogImage: 'https://luizmazini.com/og-default.png',
   ogUrl: 'https://luizmazini.com',
   ogType: 'website',
@@ -123,8 +123,8 @@ const negocios: Biz[] = [
       <span class="t-label">newsletter</span>
 
       <p class="newsletter-body">
-        1 e-mail por dia sobre IA na operacao dos 3 negocios. Conteudo pratico,
-        sem teoria.
+        receba meus e-mails para acompanhar minhas publicações e conteudos
+        sobre IA para negócios no digital. Conteudo pratico, sem teoria.
       </p>
 
       <GHLForm />
