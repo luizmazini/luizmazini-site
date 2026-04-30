@@ -54,8 +54,6 @@ luizmazini-site/
 │   ├── og-default.png
 │   ├── llms.txt            # GEO — contexto para LLMs
 │   └── luiz-mazini.png
-├── scripts/
-│   └── sync-brain.sh       # sync de docs de referencia (requer config local)
 ├── nuxt.config.ts
 ├── tailwind.config.ts
 └── wrangler.toml

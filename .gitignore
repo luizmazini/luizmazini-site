@@ -16,3 +16,5 @@ dist
 
 # Claude Code local settings
 .claude/
+
+scripts/sync-brain.sh
