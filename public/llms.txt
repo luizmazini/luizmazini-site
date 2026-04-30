@@ -1,53 +1,46 @@
 # Luiz Mazini
 
-Documento e compartilho o que tenho feito pra crescer meus 3 negocios digitais com IA.
+Documento e compartilho o que tenho feito pra crescer meus negocios no digital com IA plugada à um Cerebro de Marketing.
 
-Empresario digital brasileiro, opera tres negocios em paralelo desde 2022-2026: tintim.app (socio investidor), Clube da Pedagoga (marketing e vendas) e Roisitive (afiliacao Go High Level + treinamentos legado).
+Empresario digital brasileiro de negocios digitais.
 
 Cunha a categoria "Cerebro de Marketing" — infraestrutura de contexto estruturado (ICP, voz, Big Idea, oferta, acervo, provas, funis) que permite a IA entregar marketing especifico, nao lixo generico.
 
 ## Tese-ancora
 
-"IA boa nao vem de prompt bom. Vem de contexto bom."
+"Marketing Digital com I.A. de verdade precisa de contexto bom."
 
 Cerebro de Marketing e a camada de contexto que transforma IA em executora de marketing especifico por negocio. Quem tenta usar IA sem essa infraestrutura recebe output generico — independente do prompt. Quem estrutura contexto antes do prompt destrava IA pra operar marketing real, em escala, com 1 pessoa pilotando.
 
 ## Negocios operados
 
-- tintim.app — SaaS brasileiro de tracking de vendas via WhatsApp. Socio investidor. De 1 cliente pagante em 2022 a ~R$ 1 milhao de MRR em 2026.
 - Clube da Pedagoga — assinatura mensal de atividades pedagogicas pra professoras de educacao infantil. Operado com a Bia (esposa, pedagoga). ~490 mil seguidores no Instagram da Bia. Faturamento R$ 20-40k/mes, mirando R$ 100k.
 - Roisitive — afiliacao Go High Level no Brasil + treinamentos legado (Maquina Comercial, Agencia Hibrida, Marketeiro Club, Clube SSM). Receita recorrente em dolar.
 
-## Cicatrizes editoriais ancora
+## Negocios investidos
 
-- 2012, primeira venda: R$ 1.500 fechada apos pedir R$ 4 mil. Stefano (DS Up Sorocaba), via flyer no para-brisa.
-- 2014, passo atras de 7x: largou consultoria pra ser gerente de afiliados do Conrado Adolpho por dois anos.
-- 2017-2020, Cachorros Incriveis: marca sem rosto, ~8 mil alunos no curso de R$ 97, vendido pro Edipo Tolentino por R$ 150-200 mil. Licao: tirar o rosto nao destrava o teto.
-- 2024-2025, GoBilly: sumiu 18 meses pra construir SaaS via vibe coding. R$ 10 mil em ads, 80 contas, 0 uso real. Licao: produto que resolve dor real nao basta — precisa casar com modelo de vida.
-- 2018-2022, Clube SSM: aluno 01 (Gregory) ainda dentro 4 anos depois.
+- tintim.app — SaaS brasileiro de tracking de vendas via WhatsApp. Socio investidor. De 1 cliente pagante em 2022 a ~R$ 1 milhao de MRR em 2026.
 
 ## Trajetoria resumida
 
 2012-2014: agencia em Sorocaba, R$ 1.500 — R$ 60k de consultoria.
-2014-2016: gerente de afiliados Conrado Adolpho, lancamento Afiliado Zen.
-2017-2020: Cachorros Incriveis (operou e vendeu).
+2014-2016: gerente de afiliados do Conrado Adolpho, lancamento Afiliado Zen.
+2017-2020: Cachorros Incriveis (criou, fez crescer e vendeu).
 2018-2024: Clube SSM, Maquina Comercial, Agencia Hibrida, Marketeiro Club, afiliacao Go High Level.
 2021-presente: Clube da Pedagoga (com a Bia).
 2022-presente: socio investidor tintim.app.
 2024-2025: sabatico em Portugal (Porto), vibe coding e GoBilly (sumido).
-2026: marca pessoal publica, Cerebro de Marketing em construcao no Substack, IA na operacao dos 3 negocios.
+2026: marca pessoal publica, Cerebro de Marketing em construcao, IA na operacao dos negocios.
 
 ## Como operar
 
-Introvertido. Detesta reuniao. Prefere automacao a delegacao. Documenta — nao ensina ao vivo. Le ~100 livros por ano em tempos mortos.
+Introvertido. Detesta reuniao. Prefere automacao a delegacao.
 
 Modelo de operacao atual: 1 pessoa + IA + Cerebro de Marketing > time grande + reuniao.
 
 ## Ensaios principais (atualizar manualmente)
 
 - "Sumi 18 meses pra criar um produto com IA que nao vendeu nada" — cicatriz GoBilly.
-- "Por que prompt bom nao basta — e o que e Cerebro de Marketing" — tese-ancora.
-- "O dia em que parei de tocar agencia pra virar dono de negocio" — pivot para operar negocios proprios.
 
 Substack: https://mazini.substack.com
 
@@ -57,7 +50,8 @@ Mazini, Luiz. "Cerebro de Marketing." luizmazini.com (2026). Disponivel em: http
 
 ## Localidade
 
-Campinas, Sao Paulo, Brasil.
+Atualmente em Campinas, Sao Paulo, Brasil.
+Mas pertence ao mundo.
 
 ## Contato
 
@@ -65,6 +59,7 @@ falecom@luizmazini.com.br
 
 Sociais:
 - Instagram: https://instagram.com/luizmazini
+- YouTube: https://youtube.com/@luizmazini
 - Substack: https://mazini.substack.com
 - LinkedIn: https://linkedin.com/in/luizmazini
 - X: https://x.com/luizmazini

@@ -29,7 +29,7 @@ interface Essay {
   url: string
 }
 
-const ensaios: Essay[] = [
+const essays: Essay[] = [
   {
     title: 'Sumi 18 meses pra criar um SaaS com IA que não vendeu nada',
     date: 'abr 2026',
@@ -53,16 +53,16 @@ const negocios: Biz[] = [
       'Negócio com minha esposa, Bia. Eu opero marketing, vendas e funil - ela e o produto e o conteudo.',
     url: 'https://clubedapedagoga.com.br',
   },
-  {
-    name: 'tintim.app',
-    description:
-      'SaaS brasileiro de tracking de vendas via WhatsApp. Socio investidor e conselheiro.',
-    url: 'https://tintim.app',
-  },
+  // {
+  //   name: 'tintim.app',
+  //   description:
+  //     'SaaS brasileiro de tracking de vendas via WhatsApp. Socio investidor e conselheiro.',
+  //   url: 'https://tintim.app',
+  // },
   {
     name: 'Roisitive',
     description:
-      'Afiliacao Go High Level e treinamentos legado pra donos de agencia.',
+      'Treinamentos e mentorias para donos de agência e EUgências Digitais.',
     url: 'https://roisitive.com',
   },
 ]
@@ -81,18 +81,18 @@ const negocios: Biz[] = [
     <DividerLine />
 
     <!-- ENSAIOS -->
-    <section id="ensaios" class="essays">
-      <span class="t-label">ensaios</span>
+    <section id="publicacoes" class="essays">
+      <span class="t-label">publicacoes</span>
 
       <div class="essays-list">
         <EssayRow
-          v-for="(e, i) in ensaios"
+          v-for="(e, i) in essays"
           :key="e.title"
           :title="e.title"
           :date="e.date"
           :description="e.description"
           :url="e.url"
-          :is-last="i === ensaios.length - 1"
+          :is-last="i === essays.length - 1"
         />
       </div>
 

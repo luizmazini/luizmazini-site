@@ -47,7 +47,6 @@ const socials = [
           width="96"
           height="96"
           fit="cover"
-          :modifiers="{ gravity: 'north' }"
           loading="eager"
           class="hero-photo-img"
         />
