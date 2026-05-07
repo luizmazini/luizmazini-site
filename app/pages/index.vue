@@ -36,7 +36,14 @@ const essays: Essay[] = [
     description:
       'E ainda gastei dezenas de milhares de reais em ads pra descobrir que o problema não estava no produto.',
     url: 'https://mazini.substack.com/p/sumi-18-meses-pra-criar-um-produto',
-  }
+  },
+  {
+    title: 'Pluguei um Cérebro de Marketing na IA. E não consigo mais voltar atrás.',
+    date: 'mai 2026',
+    description:
+      'Os bastidores de como parei de melhorar prompts e comecei a alimentar contexto. E o que mudou no marketing dos meus negócios no digital.',
+    url: 'https://mazini.substack.com/p/pluguei-um-cerebro-de-marketing-na',
+  },
 ]
 
 // ----------------- BUSINESSES -----------------
