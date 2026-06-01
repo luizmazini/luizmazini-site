@@ -9,12 +9,11 @@
     <span class="t-label">agora</span>
 
     <p class="now-body">
-      Construindo o <strong>Cerebro de Marketing</strong> em publico.
       Refazendo o funil do Clube da Pedagoga com IA.
-      Construindo minha nova marca pessoal com novo posicionamento.
+      Criando um novo produto de automação para Instagram com IA. Usando o que sempre fizemos para crescer o Clube da Pedagoga.
     </p>
 
-    <span class="t-meta now-meta">atualizado em abril de 2026</span>
+    <span class="t-meta now-meta">atualizado em junho de 2026</span>
   </section>
 </template>
 
