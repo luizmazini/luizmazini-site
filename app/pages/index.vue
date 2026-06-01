@@ -31,6 +31,13 @@ interface Essay {
 
 const essays: Essay[] = [
     {
+    title: 'Os 5 níveis de I.A. para Marketing Digital',
+    date: 'jun 2026',
+    description:
+      'O guia definitivo pra você entender como não fazer publicações genéricas no digital',
+    url: 'https://mazini.substack.com/p/os-5-niveis-de-ia-para-marketing',
+  },
+  {
     title: 'Pluguei um Cérebro de Marketing na IA. E não consigo mais voltar atrás.',
     date: 'mai 2026',
     description:
