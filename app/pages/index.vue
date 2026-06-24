@@ -30,6 +30,13 @@ interface Essay {
 }
 
 const essays: Essay[] = [
+{
+    title: 'Como eu OBRIGO a IA criar conteúdo sem parecer IA',
+    date: 'jun 2026',
+    description:
+      'O que fiz para dizer CHEGA para o "Não é sobre X. É sobre Y."...',
+    url: 'https://mazini.substack.com/p/como-eu-obrigo-a-ia-criar-conteudo',
+  },
     {
     title: 'Os 5 níveis de I.A. para Marketing Digital',
     date: 'jun 2026',
