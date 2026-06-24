@@ -9,8 +9,8 @@
     <span class="t-label">agora</span>
 
     <p class="now-body">
-      Refazendo o funil do Clube da Pedagoga com IA.
-      Criando um novo produto de automação para Instagram com IA. Usando o que sempre fizemos para crescer o Clube da Pedagoga.
+      Criei um novo produto de automação para Instagram com IA. Usando o que sempre fizemos para crescer o Clube da Pedagoga...
+      Agora aguardando a Meta aprovar o app para liberar para o público.
     </p>
 
     <span class="t-meta now-meta">atualizado em junho de 2026</span>
