@@ -5,10 +5,10 @@
 useSeoMeta({
   title: 'Sobre — Luiz Mazini',
   description:
-    'Trajetória do Luiz Mazini: da primeira venda de R$ 1.500 em 2012 à construção pública do Cérebro de Marketing.',
+    'Trajetória do Luiz Mazini: da primeira venda de R$ 1.500 em 2012 até hoje, 14 anos de negócios digitais.',
   ogTitle: 'Sobre Luiz Mazini',
   ogDescription:
-    'Trajetória do Luiz Mazini: negócios digitais, IA, cicatrizes de operação e a tese do Cérebro de Marketing.',
+    'Trajetória do Luiz Mazini: da primeira venda de R$ 1.500 em 2012 até hoje, 14 anos de negócios digitais.',
   ogImage: 'https://luizmazini.com/og-default.png',
   ogUrl: 'https://luizmazini.com/sobre',
   ogType: 'profile',
@@ -35,9 +35,7 @@ useSchemaOrg([
     <header class="sobre-hero">
       <h1 class="sobre-title">sobre</h1>
       <p class="sobre-lead">
-        Documento e compartilho o que tenho feito pra crescer negócios no
-        digital usando IA. No centro disso tem um método que eu chamo de
-        <AccentMark>Cérebro de Marketing</AccentMark>.
+        Documentando e compartilhando como penso, crio e cresço meus negócios no digital. Bastidores reais de quem vive disso há 14 anos.
       </p>
     </header>
 
@@ -55,12 +53,10 @@ useSchemaOrg([
         via WhatsApp.
       </p>
       <p>
-        O foco público agora é documentar a construção do Cérebro de Marketing:
+        O foco público agora é documentar a construção do <strong>Cérebro de Marketing</strong>:
         transformar contexto de negócio em arquivo, regra, prova, funil e
         procedimento reutilizável pra IA gerar marketing específico. O Clube da
-        Pedagoga e a própria marca Mazini são os laboratórios mais vivos. A
-        Roisitive roda como legado ativo. O tintim entra como board e repertório,
-        sem operação no dia a dia.
+        Pedagoga e a própria marca Mazini são os laboratórios mais vivos.
       </p>
     </section>
 

@@ -79,12 +79,11 @@ const socials = [
 
     <div class="hero-text">
       <h1 class="hero-tese">
-        Marketing Digital com I.A. de verdade precisa de <AccentMark>contexto</AccentMark> bom.
+        14 Anos Vivendo de Negócios Digitais.
       </h1>
 
       <p class="hero-apoio">
-        Documento e compartilho o que tenho feito pra crescer meus negocios no digital
-        com IA plugada à um Cerebro de Marketing.
+        Documentando e compartilhando como penso, crio e cresço meus negócios no digital. Bastidores reais de quem vive disso desde 2012.
       </p>
     </div>
   </section>

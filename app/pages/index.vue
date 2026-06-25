@@ -2,12 +2,12 @@
 // Home — single page vertical: hero + agora + ensaios + negocios + newsletter.
 
 useSeoMeta({
-  title: 'Luiz Mazini — Documentando o que faco pra crescer negocios digitais usando IA',
+  title: 'Luiz Mazini — 14 Anos Vivendo de Negócios Digitais',
   description:
-    'Documento e compartilho o que tenho feito pra crescer meus negocios no digital usando IA. No centro, um metodo que chamo de Cerebro de Marketing.',
+    'Documentando e compartilhando como penso, crio e cresço meus negócios no digital. Bastidores reais de quem vive disso há 14 anos.',
   ogTitle: 'Luiz Mazini',
   ogDescription:
-    'Documento e compartilho o que tenho feito pra crescer meus negocios no digital com IA plugada à um Cerebro de Marketing.',
+    'Documentando e compartilhando como penso, crio e cresço meus negócios no digital. Bastidores reais de quem vive disso há 14 anos.',
   ogImage: 'https://luizmazini.com/og-default.png',
   ogUrl: 'https://luizmazini.com',
   ogType: 'website',
