@@ -79,7 +79,7 @@ const socials = [
 
     <div class="hero-text">
       <h1 class="hero-tese">
-        14 Anos Vivendo de Negócios Digitais.
+        14 Anos Vivendo de <AccentMark>Negócios Digitais</AccentMark>.
       </h1>
 
       <p class="hero-apoio">
