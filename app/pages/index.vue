@@ -145,7 +145,7 @@ const negocios: Biz[] = [
 
       <p class="newsletter-body">
         receba meus e-mails para acompanhar minhas publicações e conteudos
-        sobre IA para negócios no digital. Conteudo pratico, sem teoria.
+        sobre negócios digitais. Conteúdo prático, sem teoria vazia.
       </p>
 
       <GHLForm />
