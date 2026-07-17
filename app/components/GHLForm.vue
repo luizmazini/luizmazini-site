@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const subscribeUrl =
-  'https://mazini.substack.com/subscribe?next=https%3A%2F%2Fsubstack.com%2F%40mazini&utm_source=profile-page&utm_medium=web&utm_campaign=substack_profile&just_signed_up=true'
+  'https://mazini.substack.com/subscribe?next=https%3A%2F%2Fsubstack.com%2F%40mazini&utm_source=site-mazini&utm_medium=web&utm_campaign=site_mazini&just_signed_up=true'
 </script>
 
 <template>
