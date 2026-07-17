@@ -16,11 +16,12 @@ const subscribeUrl =
 
 <style scoped>
 .ghl-button {
-  display: inline-block;
+  align-self: flex-start;
+  width: fit-content;
   background: var(--accent);
   color: #0A0A0A;
   border: 0;
-  padding: 10px 16px;
+  padding: 10px 20px;
   border-radius: var(--radius-accent);
   font-family: var(--font-sans);
   font-size: 13px;
@@ -29,7 +30,6 @@ const subscribeUrl =
   text-decoration: none;
   cursor: pointer;
   transition: opacity 0.15s ease;
-  margin-top: 8px;
 }
 
 .ghl-button:hover {
