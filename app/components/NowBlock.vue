@@ -13,7 +13,7 @@
       Agora aguardando a Meta aprovar o app para liberar para o público.
     </p>
 
-    <span class="t-meta now-meta">atualizado em junho de 2026</span>
+    <span class="t-meta now-meta">atualizado em julho de 2026</span>
   </section>
 </template>
 

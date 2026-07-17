@@ -31,6 +31,20 @@ interface Essay {
 
 const essays: Essay[] = [
 {
+    title: 'O fim do SaaS e a Era de Ouro dos Serviços com IA',
+    date: 'jul 2026',
+    description:
+      'O porquê muito SaaS vai virar um prompt. E o exato problema que existia para crescer negócios de serviços, deixou de existir com a I.A.',
+    url: 'https://mazini.substack.com/p/o-fim-do-saas-e-a-era-de-ouro-dos',
+  },
+{
+    title: '5 Negócios Digitais que eu começaria na Era da IA',
+    date: 'jul 2026',
+    description:
+      '14 anos vivendo do digital. E eu não recomeçaria nenhum dos meus negócios do mesmo jeito...',
+    url: 'https://mazini.substack.com/p/5-negocios-digitais-que-eu-comecaria',
+  },
+{
     title: 'Como eu OBRIGO a IA criar conteúdo sem parecer IA',
     date: 'jun 2026',
     description:
