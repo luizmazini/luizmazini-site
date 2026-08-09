@@ -101,6 +101,12 @@ const negocios: Biz[] = [
     url: 'https://roisitive.com',
   },
   {
+    name: 'Mentoria de GoHighlevel',
+    description:
+      'Treinamentos, Mentorias e Consultorias de GoHighlevel',
+    url: 'https://roisitive.com/gohighlevel-brasil',
+  },
+  {
     name: 'Levios',
     description:
       'App de automação de comentários para DM no Instagram. Em beta aberto.',
