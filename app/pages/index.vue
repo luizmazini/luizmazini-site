@@ -100,6 +100,12 @@ const negocios: Biz[] = [
       'Treinamentos e mentorias para donos de agência e EUgências Digitais.',
     url: 'https://roisitive.com',
   },
+  {
+    name: 'Levios',
+    description:
+      'App de automação de comentários para DM no Instagram. Em beta aberto.',
+    url: 'https://levios.app',
+  }
 ]
 </script>
 

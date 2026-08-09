@@ -10,10 +10,10 @@
 
     <p class="now-body">
       Criei um novo produto de automação para Instagram com IA. Usando o que sempre fizemos para crescer o Clube da Pedagoga...
-      Agora aguardando a Meta aprovar o app para liberar para o público.
+      Produto novo pronto e em beta aberto: <a href="https://levios.app" target="_blank">levios.app</a>
     </p>
 
-    <span class="t-meta now-meta">atualizado em julho de 2026</span>
+    <span class="t-meta now-meta">atualizado em agosto de 2026</span>
   </section>
 </template>
 
