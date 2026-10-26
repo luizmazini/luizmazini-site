@@ -9,8 +9,8 @@
     <span class="t-label">agora</span>
 
     <p class="now-body">
-      Entrei na sociedade de um App Global de agendamento de redes sociais com IA. E estamos crescendo legal, principalmente fora do país.
-      Vai lá conhecer por, tem uma promo de R$1 no primeiro mês: <a href="https://trypost.it" target="_blank">trypost.it</a>
+      Entrei na sociedade de um app global de automação de social media com IA. E estamos crescendo legal, principalmente fora do país.
+      Vai lá conhecer, tem uma promo de R$1 no primeiro mês: <a href="https://trypost.it" target="_blank">TryPost.it</a>
     </p>
 
     <span class="t-meta now-meta">atualizado em Outubro de 2026</span>

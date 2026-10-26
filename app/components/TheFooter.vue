@@ -35,7 +35,7 @@ const socials = [
         <a href="mailto:falecom@luizmazini.com.br" class="footer-email">
           falecom@luizmazini.com.br
         </a>
-        <span class="footer-meta">Campinas, SP &middot; Brasil</span>
+        <span class="footer-meta">Sorocaba, SP &middot; Brasil</span>
       </div>
 
       <ul class="footer-socials" aria-label="Redes sociais">
