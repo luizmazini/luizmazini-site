@@ -9,11 +9,11 @@
     <span class="t-label">agora</span>
 
     <p class="now-body">
-      Criei um novo produto de automação para Instagram com IA. Usando o que sempre fizemos para crescer o Clube da Pedagoga...
-      Produto novo pronto e em beta aberto: <a href="https://levios.app" target="_blank">levios.app</a>
+      Entrei na sociedade de um App Global de agendamento de redes sociais com IA. E estamos crescendo legal, principalmente fora do país.
+      Vai lá conhecer por, tem uma promo de R$1 no primeiro mês: <a href="https://trypost.it" target="_blank">trypost.it</a>
     </p>
 
-    <span class="t-meta now-meta">atualizado em agosto de 2026</span>
+    <span class="t-meta now-meta">atualizado em Outubro de 2026</span>
   </section>
 </template>
 

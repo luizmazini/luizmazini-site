@@ -83,6 +83,12 @@ interface Biz {
 
 const negocios: Biz[] = [
   {
+    name: 'trypost.it',
+    description:
+      'App global de agendamento de redes sociais com IA. Entrei na sociedade.',
+    url: 'https://trypost.it',
+  },
+  {
     name: 'Clube da Pedagoga',
     description:
       'Negócio com minha esposa, Bia. Eu opero marketing, vendas e funil - ela e o produto e o conteudo.',
