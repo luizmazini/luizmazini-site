@@ -30,6 +30,14 @@ interface Essay {
 }
 
 const essays: Essay[] = [
+  {
+    title:
+      'O ChatGPT Work agendou 225 posts em 8 mídias sociais diferentes por mim (em 1 prompt)',
+    date: 'ago 2026',
+    description:
+      'Como uso a IA para transformar um conteúdo em versões nativas para Instagram, TikTok, YouTube Shorts, LinkedIn, X, Threads e outras redes...',
+    url: 'https://mazini.substack.com/p/o-chatgpt-work-agendou-225-posts',
+  },
 {
     title: 'O fim do SaaS e a Era de Ouro dos Serviços com IA',
     date: 'jul 2026',
